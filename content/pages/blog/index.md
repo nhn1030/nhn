@@ -28,7 +28,7 @@ postFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: 목록
+    title: ''
     subtitle: 목록
     actions: []
     colors: colors-f
