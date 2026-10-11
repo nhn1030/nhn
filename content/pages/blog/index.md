@@ -29,7 +29,7 @@ postFeed:
 topSections:
   - type: HeroSection
     title: 목록
-    subtitle: ''
+    subtitle: 목록
     actions: []
     colors: colors-f
     backgroundSize: full
@@ -45,7 +45,6 @@ topSections:
           - pr-4
         flexDirection: row
         textAlign: left
-    text: |+
+    text: |
       목록
-
 ---
