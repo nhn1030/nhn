@@ -41,7 +41,7 @@ topSections:
     text: ''
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Texture 18.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
