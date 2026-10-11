@@ -39,11 +39,4 @@ topSections:
         flexDirection: row
         textAlign: left
     text: ''
-backgroundImage:
-  type: BackgroundImage
-  url: /images/Texture 18.png
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 32
 ---
