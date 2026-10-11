@@ -2,13 +2,6 @@
 type: PostFeedLayout
 title: Blog
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 postFeed:
   type: PostFeedSection
   colors: colors-f
@@ -45,6 +38,5 @@ topSections:
           - pr-4
         flexDirection: row
         textAlign: left
-    text: |+
-
+    text: ''
 ---
