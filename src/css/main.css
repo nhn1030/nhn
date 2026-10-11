@@ -1,11 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,400;0,500;1,400;1,500&family=DM+Mono:ital,wght@0,400;0,500;1,400;1,500&display=swap')
-layer(base);
+
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,400;0,500;1,400;1,500&family=DM+Mono:wght@400;500&display=swap');
 
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
 
+
 @theme {
-    --font-body: var(--theme-font-body, monospace);
+    --font-body: "Pretendard Variable", sans-serif;
     --background-color-main: var(--theme-dark);
     --background-color-inverse: var(--theme-on-dark);
     --text-color-main: var(--theme-on-dark);
