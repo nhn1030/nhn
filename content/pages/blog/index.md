@@ -8,7 +8,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 100
 postFeed:
   type: PostFeedSection
   colors: colors-f
@@ -46,6 +46,5 @@ topSections:
         flexDirection: row
         textAlign: left
     text: |+
-
 
 ---
