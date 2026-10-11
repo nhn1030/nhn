@@ -28,7 +28,7 @@ postFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Blog
+    title: 노현남 블로그
     subtitle: ''
     actions: []
     colors: colors-f
